@@ -7,5 +7,4 @@ This project aims at creating a model to predict Hypothyroid cases . The data us
 ##Techniques Applied:
 
 1. Decision Trees; Random Forests
-
-2.SVM; Classifier
+2. 2.SVM; Classifier
